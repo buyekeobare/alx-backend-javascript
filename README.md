@@ -10,6 +10,6 @@
 - [0x01](./0x01-ES6_promise) : Promise, JavaScript Promise: An introduction, Await, Async, Throw / Try
 - [0x02](./0x02-ES6_classes) : Classes, Metaprogramming 
 - [0x03](./0x03-ES6_data_manipulation) : Array, Typed Array, Set Data Structure, Map Data Structure, WeakMap.
-- [0x04](./) :
+- [0x04](./0x04-TypeScript) : TypeScript in 5 minutes, TypeScript documentation
 - [0x05](./) : 
 
