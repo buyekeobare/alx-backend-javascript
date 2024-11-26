@@ -11,5 +11,5 @@
 - [0x02](./0x02-ES6_classes) : Classes, Metaprogramming 
 - [0x03](./0x03-ES6_data_manipulation) : Array, Typed Array, Set Data Structure, Map Data Structure, WeakMap
 - [0x04](./0x04-TypeScript) : TypeScript in 5 minutes, TypeScript documentation
-- [0x05](./0x05-NodeJS Basics) : Node JS getting started, Process API doc, Child Process, Express getting started, Mocha documentation, Nodeman documentation 
+- [0x05](./0x05-Node_JS_basic) : Node JS getting started, Process API doc, Child Process, Express getting started, Mocha documentation, Nodeman documentation 
 
